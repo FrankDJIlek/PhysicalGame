@@ -3,5 +3,5 @@
 	"$basetexture" "bean_egg"
 	"$bumpmap" "bean_egg_normal"
 	"$normalmap" "bean_egg_normal"
-	"$surfaceprop" "Concrete"
+	"$surfaceprop" "Watermelon"
 }
