@@ -1,0 +1,6 @@
+"Bean.Base"
+{
+	"dmg.bullets"	"0.5"
+	"dmg.explosive" "0.5"
+	"dmg.club"	"0.2"
+}
